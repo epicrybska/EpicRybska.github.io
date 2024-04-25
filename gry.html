@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Strona Główna</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="img/logo-normal.png" type="image/x-icon" id="favicon">
+</head>
+
+<body>
+    <main>
+
+
+        <div class="navbar">
+            <div class="left">
+                <a href="index.html">
+                    <img src="img/logo-light.png" href="siema">
+                </a>
+            </div>
+
+            <div class="right">
+            </div>
+        </div>
+
+
+        <div class="bottom">
+
+
+            <div class="gamepanel">
+                <div class="title">
+                    Gry
+                </div>
+                <div class="filters">
+                    <input type="text" placeholder="Wpisz nazwę gry..."
+                        oninput='SetFilter({selector: ".title", value: this.value, source: this.id})' id="Filter_Type">
+                    <div class="buttons">
+                        <!-- here go buttons -->
+                    </div>
+                </div>
+                <div class="games">
+                    <div class="aligner">
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+        </div>
+
+
+
+    </main>
+
+
+    <script src="js/otherdata.js"></script>
+    <script src="js/setAppearance.js"></script>
+    <script src="js/filtering.js"></script>
+
+</body>
+
+</html>

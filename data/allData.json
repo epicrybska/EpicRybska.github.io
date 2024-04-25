@@ -1,0 +1,15 @@
+{
+    "version": "1.00",
+    "webs": [
+        {
+            "title": "Strona Główna",
+            "link": "index.html"
+        },
+        {
+            "title": "Gry",
+            "link": "gry.html"
+        }
+    ],
+    "favicon": "img/logo-normal.png",
+    "contact": "<div class='contact'><div class='col'><a href='mailto:epicrybskastrona@gmail.com' id='email'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'><path d='M224,48H32a8,8,0,0,0-8,8V192a16,16,0,0,0,16,16H216a16,16,0,0,0,16-16V56A8,8,0,0,0,224,48Zm-96,85.15L52.57,64H203.43ZM98.71,128,40,181.81V74.19Zm11.84,10.85,12,11.05a8,8,0,0,0,10.82,0l12-11.05,58,53.15H52.57ZM157.29,128,216,74.18V181.82Z'></path></svg>E-mail</a><a href='https://docs.google.com/forms/d/e/1FAIpQLSdGc3IcnDccaED4CJrjpehUwm461zxm8kF0wCUbTRNvUgXZow/viewform?usp=sf_link' target='_blank'><svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 256 256'><path d='M237.6,143.78,169.13,31.52A15.91,15.91,0,0,0,155.56,24H100.43a15.89,15.89,0,0,0-13.56,7.52l-.05.07L18.44,143.7a16,16,0,0,0-.33,16.42l27.32,47.82A16,16,0,0,0,59.32,216H196.67a16,16,0,0,0,13.89-8.06l27.32-47.82A15.91,15.91,0,0,0,237.6,143.78ZM219,144H172.52L137.33,85.33l22.75-37.92Zm-116.87,0L128,100.88,153.87,144Zm61.34,16,24,40H68.53l24-40ZM128,69.78,110.12,40l35.78-.05ZM95.91,47.41l22.76,37.92L83.47,144H37ZM36.54,160H73.87L54.72,191.92Zm164.74,31.93L182.12,160h37.41Z'></path></svg>Ankieta Google</a></div><div class='col'><div class='ver'>Wersja Strony: 1.0</div></div></div>"
+}
