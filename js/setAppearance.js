@@ -6,6 +6,7 @@ async function SetAHref(){
         return res.text();
     })
 
+    console.log(response);
     let allData = JSON.parse(response);
     let fullDir = allData.webs;
     
